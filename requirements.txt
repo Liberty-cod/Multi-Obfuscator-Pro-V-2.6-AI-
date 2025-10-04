@@ -1,0 +1,5 @@
+dnlib
+tkinterdnd2
+ttkthemes
+pygments
+clang
